@@ -4,6 +4,7 @@ The story was located in Barcelona/Spain. The main actor is a seeker of old book
 enjoys the city of old lanes and histories. 
 
 ## Character traits
-* interseted
-* good listenery
+* interested
+* good listener
+* good eater
 
